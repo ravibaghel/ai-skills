@@ -1,2 +1,3 @@
 # ai-skills
-My skills library
+
+A practical set of skills that anyone can use in daily life.
